@@ -1,5 +1,5 @@
-# Dynamics-of-stratospheric-N2O-in-lower-stratosphere-based-on-the-Aura-satellite-data
-Repository for code used in the data analysis of the article mentioned in the repository title.
+# Dynamics of N2O and O3 in the lower stratosphere based on the Aura satellite data
+Repository for code used in the data analysis of the article mentioned in the heading.
 
 Includes descriptions for code used in the article mentioned in the title in the processing and analysis of N2O and O3 data.
 
