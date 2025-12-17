@@ -57,10 +57,15 @@ The names of the location identifiers in the code differ from Table S1, the foll
 
 Python: 3.9.13
 
+
 NumPy: 1.24.4
+
 Pandas: 2.3.2
+
 Matplotlib: 3.8.3
+
 SciPy: pyMannKendall: 1.4.3
+
 
 
 **latitude_spreads.ipynb** - includes code for calculating the mean N2O and O3 concentrations and their 95% CIs per location for the entire study period and plotting the data (as seen in Fig. 1 of the paper)
