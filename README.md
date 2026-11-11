@@ -1,13 +1,13 @@
-# Dynamics of N2O and O3 in the lower stratosphere based on the Aura satellite data
+# Dynamics of nitrous oxide and ozone in the lower stratosphere based on the Aura satellite data
 Repository for code used in the data analysis of the article mentioned in the heading.
 
 Includes descriptions for code used in the article mentioned in the title in the processing and analysis of N2O and O3 data.
 
 Additional information: [Silver Põlgaste](mailto:silver.polgaste@ut.ee)
 
-Nitrous oxide data from [MLS/Aura Level 2 Nitrous Oxide (N2O) Mixing Ratio V005 (ML2N2O)](https://disc.gsfc.nasa.gov/datasets/ML2N2O_005/summary?keywords=aura%20n2o)
+Nitrous oxide data from [MLS/Aura Level 2 Nitrous Oxide (N2O) Mixing Ratio V006 (ML2N2O)](https://disc.gsfc.nasa.gov/datasets/ML2N2O_006/summary)
 
-Ozone data from [MLS/Aura Level 2 Ozone (O3) Mixing Ratio V005 (ML2O3)](https://disc.gsfc.nasa.gov/datasets/ML2O3_005/summary?keywords=aura%20o3)
+Ozone data from [MLS/Aura Level 2 Ozone (O3) Mixing Ratio V006 (ML2O3)](https://disc.gsfc.nasa.gov/datasets/ML2O3_006/summary)
 
 Data from 2005-2021
 ## Descriptions of files and data included
